@@ -1,0 +1,32 @@
+{
+  "footballTeams": [
+    {
+      "club": "FC_Barcelona",
+      "league": "La_Liga",
+      "titles": 100,
+      "stadium": "Camp_Nou",
+      "head_coach": "Xavi"
+    },
+    {
+      "club": "Borussia_Dortmund",
+      "league": "Bundesliga",
+      "titles": 50,
+      "stadium": "Westfalenstadion",
+      "head_coach": "Edin_Terzic"
+    },
+    {
+      "club": "Manchester_City",
+      "league": "Premier_League",
+      "titles": 40,
+      "stadium": "City_Of_Manchester_stadium",
+      "head_coach": "Pep_Guardiola"
+    },
+    {
+      "club": "AC_Milan",
+      "league": "Serie_A",
+      "titles": 100,
+      "stadium": "San_Siro",
+      "head_coach": "Stefano_Pioli"
+    }
+  ]
+}
